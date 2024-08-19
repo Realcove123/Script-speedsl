@@ -1,0 +1,4 @@
+Print("hello guys its me a script maker and here is the script local player = ,game.Players LocalPlayer
+local character =  player.Character or player local humanoid = character:WaitForChild(
+
+humanoid WalkSpeed = 200loadstring(game:HttpGet")
